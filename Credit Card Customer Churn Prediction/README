@@ -1,8 +1,3 @@
-**Report:** This paper introduces the research background and methodology for predicting credit card customer churn, describes data encoding, standardization, 
-and SMOTE-based class balancing techniques, explains the mathematical principles of Kernel Extreme Learning Machine (KELM), presents the approach of optimizing model parameters using Quantum-
-Inspired Chimpanzee Optimization Algorithm (QChOA), and discusses computational cost, scalability, and potential improvements.
+**Report:** This paper introduces the research background and methodology for predicting credit card customer churn, describes data encoding, standardization, and SMOTE-based class balancing techniques, explains the mathematical principles of Kernel Extreme Learning Machine (KELM), presents the approach of optimizing model parameters using Quantum-Inspired Chimpanzee Optimization Algorithm (QChOA), and discusses computational cost, scalability, and potential improvements.
 
-
-**Python:** Completed customer data preprocessing, category distribution analysis, and feature correlation analysis; split the dataset into training and testing sets, 
-and performed standardization and SMOTE oversampling on the training data. Implemented SVM, Random Forest, and KELM models, used QChOA to search for optimal regularization 
-and kernel parameters of KELM, compared model performance using classification reports, ROC-AUC, and confusion matrices, and analyzed feature importance in the Random Forest model.
+**Python:** Completed customer data preprocessing, category distribution analysis, and feature correlation analysis; split the dataset into training and testing sets, and performed standardization and SMOTE oversampling on the training data. Implemented SVM, Random Forest, and KELM models, used QChOA to search for optimal regularization and kernel parameters of KELM, compared model performance using classification reports, ROC-AUC, and confusion matrices, and analyzed feature importance in the Random Forest model.
