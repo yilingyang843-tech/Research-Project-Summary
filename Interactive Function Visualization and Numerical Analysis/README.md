@@ -1,1 +1,1 @@
-
+**Python:** Build an interactive function visualization application using Python, Plotly, Dash, and NumPy. Users can adjust parameters and viewing ranges to explore changes in linear, quadratic, and sine functions. The program labels key points, analyzes derivatives, monotonicity, concavity, zeros, and function symmetry, while supporting image zooming, data point selection, and history tracking. After running the code, access it locally at: [http://127.0.0.1:8050/](http://127.0.0.1:8050/)
