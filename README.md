@@ -2,6 +2,27 @@
 
 A collection of my undergraduate research and academic projects completed during four years of study at Wenzhou-Kean University.
 
+### Coastal Sea-Level Residual Forecasting
+
+Developed a 24-hour coastal sea-level residual forecasting framework using multi-source oceanographic and meteorological data and graph-based temporal models. Contributed to data collection, preprocessing, model development, benchmark comparison, ablation experiments, and result interpretation. The manuscript is currently being revised under faculty supervision in preparation for submission.
+
+**Status:** Manuscript in preparation  
+**Materials:** Code and manuscript are not publicly available.
+
+### Continuous-Time LNN-PINNs for Time-Dependent PDEs
+
+Developed an LNN-PINN framework that integrates the continuous-time hidden-state dynamics of Liquid Neural Networks with the physical constraints of Physics-Informed Neural Networks. Evaluated the framework on time-dependent partial differential equations, with attention to prediction accuracy, long-term error evolution, and model stability.
+
+**Status:** Research completed  
+**Materials:** A summary is provided; the full proposal and code are not publicly available.
+
+### Generative AI Use and Acceptance in Higher Education
+
+Investigated university students’ use and acceptance of generative AI tools and examined their relationships with perceived learning benefits, independent learning, dependence risk, and academic performance. Led the survey design and data analysis, using student questionnaires, faculty interviews, fuzzy comprehensive evaluation, regression analysis, and interactive visualization.
+
+**Status:** Completed research project  
+**Materials:** Only aggregated findings are presented. Individual survey responses and interview records are not publicly available.
+
 | Project | Relevant Fields | Materials |
 | --- | --- | --- |
 | **Adaptive Federated Graph Learning for Diabetes Classification** | Data Science, Biostatistics, Machine Learning, Healthcare Analytics | **[Code](./Adaptive%20Federated%20Graph%20Learning%20for%20Diabetes%20Classification/Adaptive%20Federated%20Graph%20Learning.py):** Python implementation of federated graph learning and model comparison.<br>**[Report](./Adaptive%20Federated%20Graph%20Learning%20for%20Diabetes%20Classification/Adaptive%20Federated%20Graph%20Learning%20Report.pdf):** Methodology, experiments, results, and limitations. |
