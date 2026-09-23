@@ -1,4 +1,4 @@
-# Research Project Summary
+# Research & Project Summary
 
 A collection of my undergraduate research and academic projects completed during four years of study at Wenzhou-Kean University.
 
