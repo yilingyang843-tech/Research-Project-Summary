@@ -1,27 +1,15 @@
 # Research & Project Summary
 
 A collection of my undergraduate research and academic projects completed during four years of study at Wenzhou-Kean University.
+## Research Experience
 
-### Coastal Sea-Level Residual Forecasting
+The following research projects are summarized to present their research objectives, methodologies, and my contributions. Research data, source code, manuscripts, and internal materials are not publicly available.
 
-Developed a 24-hour coastal sea-level residual forecasting framework using multi-source oceanographic and meteorological data and graph-based temporal models. Contributed to data collection, preprocessing, model development, benchmark comparison, ablation experiments, and result interpretation. The manuscript is currently being revised under faculty supervision in preparation for submission.
-
-**Status:** Manuscript in preparation  
-**Materials:** Code and manuscript are not publicly available.
-
-### Continuous-Time LNN-PINNs for Time-Dependent PDEs
-
-Developed an LNN-PINN framework that integrates the continuous-time hidden-state dynamics of Liquid Neural Networks with the physical constraints of Physics-Informed Neural Networks. Evaluated the framework on time-dependent partial differential equations, with attention to prediction accuracy, long-term error evolution, and model stability.
-
-**Status:** Research completed  
-**Materials:** A summary is provided; the full proposal and code are not publicly available.
-
-### Generative AI Use and Acceptance in Higher Education
-
-Investigated university students’ use and acceptance of generative AI tools and examined their relationships with perceived learning benefits, independent learning, dependence risk, and academic performance. Led the survey design and data analysis, using student questionnaires, faculty interviews, fuzzy comprehensive evaluation, regression analysis, and interactive visualization.
-
-**Status:** Completed research project  
-**Materials:** Only aggregated findings are presented. Individual survey responses and interview records are not publicly available.
+| Research | Relevant Fields | Summary | Status and Availability |
+| --- | --- | --- | --- |
+| **Coastal Sea-Level Residual Forecasting with Dual-Expert Fusion** | Data Science, Time-Series Forecasting, Graph Neural Networks, Environmental Analytics | Developed a 24-hour coastal sea-level residual forecasting framework using multi-source oceanographic and meteorological observations. Contributed to data collection and alignment, baseline construction, graph-based temporal modeling, dual-expert fusion, ablation experiments, external evaluation, and result interpretation. | **Status:** Manuscript under revision and preparation for submission.<br>**Data:** Not publicly available.<br>**Code:** Not publicly available.<br>**Manuscript:** Not publicly available. |
+| **Continuous-Time LNN-PINNs for Time-Dependent PDEs** | Scientific Machine Learning, Applied Mathematics, Computational Science, Fluid Dynamics | Developed an LNN-PINN framework that integrates the continuous-time hidden-state dynamics of Liquid Neural Networks with the physical constraints of Physics-Informed Neural Networks. Evaluated the model on time-dependent PDEs and examined prediction accuracy, long-term error evolution, and stability under initial-condition perturbations. | **Status:** Research completed.<br>**Data:** Not publicly available.<br>**Code:** Not publicly available.<br>**Proposal and report:** Not publicly available. |
+| **Generative AI Use and Acceptance in Higher Education** | Data Science, Statistics, Educational Analytics, Social Data Analysis | Investigated university students’ use and acceptance of generative AI tools and their relationships with perceived learning benefits, independent learning, dependence risk, and academic performance. Led questionnaire design, data processing, fuzzy evaluation, regression analysis, visualization, and interpretation of student and faculty responses. | **Status:** Research project completed.<br>**Survey data:** Not publicly available.<br>**Code:** Not publicly available.<br>**Interview records:** Not publicly available. |
 
 | Project | Relevant Fields | Materials |
 | --- | --- | --- |
