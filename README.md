@@ -28,5 +28,6 @@ The following research projects are summarized to present their research objecti
 
 | Title | Relevant Fields | Poster |
 |---|---|---|
-| An Unsupervised Adaptive PINN-NTK Framework for Transport Phenomena in Hybrid Nanofluid Flow | Physics-Informed Neural Networks (PINNs), Neural Tangent Kernel (NTK), Computational Fluid Dynamics, Heat Transfer, Scientific Machine Learning | [View Poster](YOUR_POSTER_URL) |
+| An Unsupervised Adaptive PINN-NTK Framework for Transport Phenomena in Hybrid Nanofluid Flow | Physics-Informed Neural Networks (PINNs), Neural Tangent Kernel (NTK), Computational Fluid Dynamics, Heat Transfer, Scientific Machine Learning | [View Poster](https://github.com/yilingyang843-tech/Research-Project-Summary/blob/main/Research%20Day%20Poster/YilingYang_poster.pdf)
+|
 
