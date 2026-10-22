@@ -22,3 +22,11 @@ The following research projects are summarized to present their research objecti
 | **Elliptic Curve Point Counts over Finite Fields** | Computational Mathematics, Number Theory, Scientific Computing | **[Code](./Elliptic%20Curve%20Point%20Counts%20over%20Finite%20Fields/Project.py):** Python implementation of direct enumeration and Legendre-symbol point-counting methods.<br>**[Report](./Elliptic%20Curve%20Point%20Counts%20over%20Finite%20Fields/Number%20Theory.pdf):** Mathematical derivation, Frobenius trace analysis, computational comparison, and results. |
 | **Temperature Forecasting for Wenzhou-Kean University** | Data Science, Statistics, Time-Series Forecasting, Environmental Analytics | **[Code](./Temperature%20Forecasting%20for%20Wenzhou-Kean%20University/WKU_Temperature_Forcasting.ipynb):** Jupyter Notebook for weather-data processing, feature construction, Random Forest prediction, and Holt-Winters forecasting.<br>**[Report](./Temperature%20Forecasting%20for%20Wenzhou-Kean%20University/WKU_Temperature_Report.pdf):** Data preparation, forecasting methodology, model integration, results, and limitations. |
 | **Interactive Function Visualization and Numerical Analysis** | Data Science, Applied Mathematics, Data Visualization, Scientific Computing | **[Code](./Interactive%20Function%20Visualization%20and%20Numerical%20Analysis/Visualization.py):** Python application for interactively exploring linear, quadratic, and sine functions, including parameter adjustment, key-point visualization, derivative and function-property analysis, zooming, and point selection.<br>**Application:** Runs locally at [http://127.0.0.1:8050/](http://127.0.0.1:8050/) after executing the Python code. |
+
+
+## Poster Presentation
+
+| Title | Relevant Fields | Poster |
+|---|---|---|
+| An Unsupervised Adaptive PINN-NTK Framework for Transport Phenomena in Hybrid Nanofluid Flow | Physics-Informed Neural Networks (PINNs), Neural Tangent Kernel (NTK), Computational Fluid Dynamics, Heat Transfer, Scientific Machine Learning | [View Poster](YOUR_POSTER_URL) |
+
